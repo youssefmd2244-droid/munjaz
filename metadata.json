@@ -1,0 +1,6 @@
+{
+  "name": "Icon Swarm Ultimate v9.0",
+  "description": "An interactive Web platform for the self-evolving AI Swarm entity to generate, edit, persist, and preview multi-storage assets, codes, and automated workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
